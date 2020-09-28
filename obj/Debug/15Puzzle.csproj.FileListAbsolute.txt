@@ -1,0 +1,10 @@
+D:\Projects-C#\15Puzzle\bin\Debug\15Puzzle.exe.config
+D:\Projects-C#\15Puzzle\bin\Debug\15Puzzle.exe
+D:\Projects-C#\15Puzzle\bin\Debug\15Puzzle.pdb
+D:\Projects-C#\15Puzzle\obj\Debug\15Puzzle.csprojAssemblyReference.cache
+D:\Projects-C#\15Puzzle\obj\Debug\_15Puzzle.Form1.resources
+D:\Projects-C#\15Puzzle\obj\Debug\_15Puzzle.Properties.Resources.resources
+D:\Projects-C#\15Puzzle\obj\Debug\15Puzzle.csproj.GenerateResource.cache
+D:\Projects-C#\15Puzzle\obj\Debug\15Puzzle.csproj.CoreCompileInputs.cache
+D:\Projects-C#\15Puzzle\obj\Debug\15Puzzle.exe
+D:\Projects-C#\15Puzzle\obj\Debug\15Puzzle.pdb
